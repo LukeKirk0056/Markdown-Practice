@@ -1,7 +1,7 @@
   $$
     \begin{bmatrix}
-    P & | & ¬\\
-    false& | & true\\
-    true & |& false\\
+    P & ¬\\
+    false & true\\
+    true & false\\
     \end{bmatrix}
     $$
